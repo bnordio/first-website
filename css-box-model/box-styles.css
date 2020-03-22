@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  padding: 2em;
+  border-bottom: 1px solid #5d6063;
+}
+
+p {
+  background-color: #dde0e3;
+  padding: 1em 1em;
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
+
+em,
+strong {
+  background-color: #b2d6ff; /* Light blue */
+}
+
+div {
+  color: #fff;
+  background-color: #5995da;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5d6063;
+  border-radius: 5px;
+
+  width: 200px;
+  box-sizing: border-box;
+  margin: 20px auto;
+}
